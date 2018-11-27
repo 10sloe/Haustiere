@@ -1,4 +1,4 @@
-# Projekt Hunde
+# Projekt Haustiere
 
 10. Klasse
 
